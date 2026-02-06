@@ -1,5 +1,5 @@
 import Head from "next/head";
-import HeroSection from "../Components/HeroSection";
+import HeroSection from "../Components/Herosection";
 import Features from "../Components/Features";
 import AfterHero from "../Components/AfterHero";
 
