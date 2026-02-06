@@ -1,9 +1,7 @@
 import Head from "next/head";
-import HeroSection from "@/components/Herosection";
-import Footer from "@/components/Footer";
-import Features from "@/components/Features";
-import AfterHero from "@/components/AfterHero";
-import DestinationTeaser from "@/components/DestinationTeaser";
+import HeroSection from "../Components/HeroSection";
+import Features from "../Components/Features";
+import AfterHero from "../Components/AfterHero";
 
 export default function Home() {
   return (
