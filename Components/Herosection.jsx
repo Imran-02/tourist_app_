@@ -1,6 +1,6 @@
 import { ArrowRight, ShieldCheck } from "lucide-react";
 
-export default function HeroSection() {
+export default function Herosection() {
   return (
     <section className="relative pt-32 pb-20 bg-[#f7f3ee] overflow-hidden">
       {/* Subtle background texture */}
